@@ -1,3 +1,7 @@
+# JoyCaption Support
+
+Go to https://huggingface.co/spaces/fancyfeast/joy-caption-pre-alpha/tree/main/wpkklhc6 and download `image_adapter.pt`. Place `image_adapter.pt` into the `joycaption` folder, keeping the name intact. `image_adapter.pt` is required for JoyCaption to work.
+
 # TagGUI
 
 <img src='images/icon.png' alt='TagGUI icon' width='128'>
